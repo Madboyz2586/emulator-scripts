@@ -43,7 +43,6 @@ sudo chmod +x /usr/local/bin/wine /usr/local/bin/wineboot /usr/local/bin/winecfg
 WINEPREFIX=~/.wine WINEARCH=win32 wine winecfg
 WINEPREFIX=~/.wine64 WINEARCH=win64 wine winecfg
 cd
-echo "alias wine64="WINEPREFIX=~/.wine64 wine" " > .Bashrc
 cd ~/emulator-scripts/
 echo "Installing winetricks"
 sudo apt-get install cabextract -y
