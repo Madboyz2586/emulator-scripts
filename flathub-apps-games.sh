@@ -11,3 +11,9 @@ flatpak install flathub com.dosbox_x.DOSBox-X
 flatpak install flathub io.github.simple64.simple64
 flatpak install flathub io.openrct2.OpenRCT2
 flatpak install flathub net.kuribo64.melonDS
+flatpak install flathub org.sonic3air.Sonic3AIR
+flatpak install flathub com.github.Rosalie241.RMG
+flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+flatpak install flathub net.minetest.Minetest
+flatpak install flathub net.sourceforge.torcs
+flatpak install flathub net.supertuxkart.SuperTuxKart
